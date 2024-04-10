@@ -1,5 +1,5 @@
 p.first::first-letter {
-  font-size: 200%;
+  font-size: 500%;
 }
 
 main p:first-child {
@@ -7,7 +7,7 @@ main p:first-child {
 }
 
 :root {
-  --fancy-color: #502000;
+  --fancy-color: #515151;
 }
 
 h1, h2 {
